@@ -1,0 +1,4 @@
+Automatically fetches and pushes single header version of fastfloat:
+https://github.com/fastfloat/fast_float?tab=readme-ov-file#using-as-single-header
+
+This repo is for those who want to include fastfloat as submodules.
